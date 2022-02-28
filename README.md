@@ -1,3 +1,13 @@
+## head order next@canary
+
+v12.1.1-canary.4
+
+```html
+<meta content="_app.js" />
+<meta content="index.js" />
+<meta content="_document.js" />
+```
+
 ## head order next 12.1.0
 
 ```html
